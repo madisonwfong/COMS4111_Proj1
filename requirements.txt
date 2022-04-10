@@ -1,2 +1,4 @@
 python-pip
-click flask sqlalchemy
+click
+flask
+sqlalchemy
