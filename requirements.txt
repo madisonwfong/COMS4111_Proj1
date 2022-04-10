@@ -1,4 +1,9 @@
 python-pip
 click
-flask
+Flask
 sqlalchemy
+psycopg2-binary
+MarkupSafe
+Jinja2
+itsdangerous
+click
